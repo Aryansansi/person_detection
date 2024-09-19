@@ -1,4 +1,4 @@
-# Object Detection Project
+# Person Detection Project
 
 This repository contains three main Python scripts, each designed for specific object detection tasks. The models implemented utilize various deep learning frameworks and techniques.
 
